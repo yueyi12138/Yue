@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "17060101119_岳仪_booth算法", "17060101119_岳仪_booth算法\17060101119_岳仪_booth算法.vcxproj", "{DA0080E4-F6DD-48F6-B508-6CCB6F8EC4DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA0080E4-F6DD-48F6-B508-6CCB6F8EC4DB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DA0080E4-F6DD-48F6-B508-6CCB6F8EC4DB}.Debug|Win32.Build.0 = Debug|Win32
+		{DA0080E4-F6DD-48F6-B508-6CCB6F8EC4DB}.Release|Win32.ActiveCfg = Release|Win32
+		{DA0080E4-F6DD-48F6-B508-6CCB6F8EC4DB}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
